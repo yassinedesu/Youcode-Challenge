@@ -11,4 +11,5 @@ int main(){
     printf("Veuillez entrer la temperature en Celsius : ");
     scanf("%d",&C);
     printf("%d Celsius = %.2f kelvin",C,k);
+    return 0;
 }
