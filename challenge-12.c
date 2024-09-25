@@ -1,5 +1,4 @@
-// Challenge 12
-// Challenge 12
+// Challenge 12 
 
 #include <stdio.h>
 
