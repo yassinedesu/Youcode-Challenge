@@ -1,10 +1,6 @@
 // Challenge 12
-
-<<<<<<< HEAD
-=======
 // Challenge 12
 
->>>>>>> 06badf6754e6adb1f59e7cfb77f52c1778fe2205
 #include <stdio.h>
 
 int main (){
@@ -17,8 +13,5 @@ int main (){
     unite = (n % 10) ;
     printf("%d%d%d%d",unite,dizaine,centaine,millier);
     return 0;
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 06badf6754e6adb1f59e7cfb77f52c1778fe2205
